@@ -1,5 +1,3 @@
-//your JS code here. If required.
-// Create the student object
 const student = {
   name: "John",
 };
@@ -10,4 +8,4 @@ function getKeys(obj) {
 }
 
 // Testing the function
-console.log(getKeys(student)); // Output: ["name"]
+console.log(getKeys(student));
